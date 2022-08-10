@@ -1,0 +1,2 @@
+check50:
+  checks: grade-rq.py 
